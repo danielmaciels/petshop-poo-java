@@ -4,6 +4,10 @@ public class ProdutosCachorro {
 
     public static void main(String[] args) {
     
+
+    //títulos
+    System.out.println("PRODUTOS PARA CACHORRO");
+
         //produtos
         Racao pedigree = new Racao("Ração Pedigree", 17.99);
         Petisco biscrok = new Petisco("Petisco Biscrok", 12.99);

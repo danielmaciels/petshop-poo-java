@@ -1,4 +1,4 @@
-package com.petshop.cachorro.produtos;
+package com.petshop.gato.produtos;
 
 public class Brinquedo {
     
@@ -17,4 +17,5 @@ public class Brinquedo {
         return valor;
     }
     
+
 }

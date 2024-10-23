@@ -1,12 +1,12 @@
-package com.petshop.cachorro.produtos;
+package com.petshop.peixe.produtos;
 
-public class Brinquedo {
+public class Racao {
     
     private String nome;
     private double valor;
 
     // construtor
-    public Brinquedo (String nome, double valor) {
+    public Racao (String nome, double valor) {
         this.nome = nome;
         this.valor = valor;
     }
@@ -16,5 +16,5 @@ public class Brinquedo {
     public double getValor() {
         return valor;
     }
-    
+
 }

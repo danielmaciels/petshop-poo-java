@@ -20,11 +20,14 @@ public class AdocaoCachorro {
                 
                     //seleção de cachorros
                     System.out.println("Raça: " + adotarPinscher.getRaca() +" Idade: " + adotarPinscher.getIdade());
-                    System.err.println("Raça: " + adotarSalsicha.getRaca() + " Idade: " + adotarSalsicha.getIdade());
+                    System.out.println("Raça: " + adotarSalsicha.getRaca() + " Idade: " + adotarSalsicha.getIdade());
 
 
                     //doePet
                     System.out.println(doarPet.getTemPet() + " Entre em contato conosco: " + doarPet.getContato());
+
+
+            
 
         }
 
